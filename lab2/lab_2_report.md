@@ -4,8 +4,8 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://it
 Year: 2024\
 Group: U4125\
 Author: Koryakina Polina\
-Lab: Lab1\
-Date of create: 19.04.2024\
+Lab: Lab2\
+Date of create: 26.04.2024\
 Date of finished: 
 
 
