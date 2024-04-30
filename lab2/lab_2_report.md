@@ -6,7 +6,7 @@ Group: U4125\
 Author: Koryakina Polina\
 Lab: Lab2\
 Date of create: 26.04.2024\
-Date of finished: 
+Date of finished: 26.04.2024
 
 
 1) Создаем Cloud Run из представленного дефолтного сервиса Hello
