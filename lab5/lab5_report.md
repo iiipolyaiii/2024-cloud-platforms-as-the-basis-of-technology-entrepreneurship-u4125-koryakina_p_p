@@ -6,6 +6,6 @@ Group: U4125\
 Author: Koryakina Polina\
 Lab: Lab5\
 Date of create: 05.05.2024\
-Date of finished: 
+Date of finished: 07.05.2024
 
 [Ссылка на Notion](https://www.notion.so/1-Jira-Github-e0d0db5a6e2245c4b467920d092889db?showMoveTo=true&saveParent=true)
