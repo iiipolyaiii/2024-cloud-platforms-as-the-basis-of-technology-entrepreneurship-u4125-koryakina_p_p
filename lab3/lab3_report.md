@@ -6,7 +6,7 @@ Group: U4125\
 Author: Koryakina Polina\
 Lab: Lab3\
 Date of create: 30.04.2024\
-Date of finished: 
+Date of finished: 30.04.2024
 
 1) создаем свой bucket pkoryakina-bucket-lab3
 ![image](https://github.com/iiipolyaiii/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-koryakina_p_p/assets/164926981/943fa968-1c79-45e3-873d-f5cb4b3cfd12)
