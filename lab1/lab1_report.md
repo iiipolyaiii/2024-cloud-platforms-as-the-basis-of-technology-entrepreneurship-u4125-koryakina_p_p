@@ -6,7 +6,7 @@ Group: U4125\
 Author: Koryakina Polina\
 Lab: Lab1\
 Date of create: 19.04.2024\
-Date of finished: 
+Date of finished: 19.04.2024
 
 
 1) В разделе Identity and Access Management (IAM) мы создали Service Account с правами Storage Admin (широкий функционал)
